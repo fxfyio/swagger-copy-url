@@ -14,7 +14,10 @@
   ],
   "content_scripts": [
     {
-      "matches": ["*://*/swagger*"],
+        "matches": [
+            "*://*/swagger*",
+            "*://*.swagger.io/*"
+        ],
       "js": ["content.js"]
     }
   ]
