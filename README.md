@@ -2,4 +2,4 @@
 
 为Swagger添加一个可快速复制URL的按钮。
 
-![](image.jpg)
+![](images/image.jpg)
